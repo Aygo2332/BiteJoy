@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BitsJoy/static/css/main.fe21dacc.css",
+    "main.js": "/BitsJoy/static/js/main.0d84c4dc.js",
+    "index.html": "/BitsJoy/index.html",
+    "main.fe21dacc.css.map": "/BitsJoy/static/css/main.fe21dacc.css.map",
+    "main.0d84c4dc.js.map": "/BitsJoy/static/js/main.0d84c4dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe21dacc.css",
+    "static/js/main.0d84c4dc.js"
+  ]
+}
